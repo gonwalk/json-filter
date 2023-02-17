@@ -1,3 +1,3 @@
-module github.com/liu-cn/json-filter
+module github.com/gonwalk/json-filter
 
 go 1.17
